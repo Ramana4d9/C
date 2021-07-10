@@ -1,11 +1,11 @@
-1. Write  a program  to Convert
-a)  Hex to Binary  
-b) Binary  to Hex
-c) Hex to  ASCII
-d) Text to Binary
-program: conversions.c
-2) Write a program to Man Command with the help of System(). (Display the Menu of Man to take the input for choosing particular sub function)
-Ex: Man 3  is   used for Library functions
-program: manPage.c
-3) WAP for Linked list to Inserting Element at the front.
-program:addAtfrontSLL.c
+Insert node at the given position
+- Insert at the end
+program: SLLAddAtPosition.c
+- Find the middle of a node using a fast pointer
+program: middleNode.c
+- Find 1/4th and 3/4th node of given LinkedList
+- Print before last node
+program: findNode.c
+- Reversing a linked list using recursion
+
+Note:I have combined the two to three programs of same logic into one file.

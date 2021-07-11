@@ -7,5 +7,6 @@ program: middleNode.c
 - Print before last node
 program: findNode.c
 - Reversing a linked list using recursion
+program: reverseLink
 
 Note:I have combined the two to three programs of same logic into one file.
